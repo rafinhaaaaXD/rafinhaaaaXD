@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
-  ### Me chamo Rafael, tenho 19 anos, sou um aprendiz em programação e estou fazendo bacharel em Ciência da Computação na UESC.
+  ### Me chamo Rafael, tenho 21 anos, estou fazendo bacharel em Ciência da Computação na UESC.
   
  <div>
    <a href="https://github.com/rafinhaaaaXD">
